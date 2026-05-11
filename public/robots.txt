@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.erbeportal.de
+
+# Sitemaps
+Sitemap: https://www.erbeportal.de/sitemap.xml
