@@ -41,6 +41,11 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* Disclaimer */}
+        <p className="text-xs text-white/40 text-center border-t border-white/10 pt-4 pb-2">
+          Die Inhalte auf dieser Website dienen der allgemeinen Information und ersetzen keine Rechtsberatung.
+        </p>
+
         <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-white/50">
           <p>© 2026 erbeportal.de – Alle Rechte vorbehalten.</p>
           <a

@@ -307,7 +307,7 @@ const articles: Article[] = [
 <p>Zusätzlich sollten Sie eine <strong>Patientenverfügung</strong> in Betracht ziehen — in der Sie konkrete Wünsche zu medizinischen Maßnahmen am Lebensende festhalten. Diese bindet Ärzte und Betreuer rechtlich.</p>
 
 <h2>Vorsorgevollmacht digital erstellen</h2>
-<p>Auf <a href="https://eritaj.de/dashboard/vorsorgevollmacht" target="_blank" rel="noopener noreferrer">eritaj.de/dashboard/vorsorgevollmacht</a> können Sie Ihre Vorsorgevollmacht geführt und rechtssicher erstellen. Das digitale Formular führt Sie durch alle relevanten Entscheidungen und generiert ein rechtsgültiges Dokument.</p>
+<p>Auf <a href="https://eritaj.de/dashboard/vorsorgevollmacht" target="_blank" rel="noopener noreferrer">eritaj.de/dashboard/vorsorgevollmacht</a> können Sie Ihre Vorsorgevollmacht geführt und strukturiert erstellen. Das digitale Formular führt Sie durch alle relevanten Entscheidungen und generiert ein vollständiges Dokument.</p>
 
 <div class="info-box">
   <strong>Wichtig:</strong> Eine Vorsorgevollmacht entfaltet ihre Wirkung nur, wenn sie rechtzeitig errichtet wird — also solange Sie geschäftsfähig sind. Wer wartet, bis er nicht mehr entscheiden kann, hat keine Möglichkeit mehr, die Vollmacht auszustellen.

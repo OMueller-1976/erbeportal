@@ -169,7 +169,7 @@ export default function TestamentFormenPage() {
             >
               eritaj.de/dashboard/testament
             </a>{" "}
-            können Sie Ihr Testament geführt und rechtssicher erstellen lassen.
+            können Sie Ihr Testament geführt und strukturiert erstellen lassen.
           </div>
 
         </article>
