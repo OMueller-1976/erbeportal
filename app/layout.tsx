@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   description:
     "Alles zum Erbrecht: Testament, Erbschaftsteuer, Erbschein und Nachlassabwicklung. Kostenlose Ratgeber für Erben und Erblasser.",
   metadataBase: new URL("https://www.erbeportal.de"),
+  alternates: {
+    canonical: 'https://www.erbeportal.de',
+  },
   verification: {
     google: "DKyeIvtmygsso2mCVkb0zjbRKlSF2h7qWw1YEASrJN0",
   },
